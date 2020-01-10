@@ -1,5 +1,6 @@
 module.exports = function(grunt) {
 	"use strict";
+	
 var
 	//builddir = "dist", // not used
 	// files
